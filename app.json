@@ -13,11 +13,11 @@
         },
         "CONFIGCADDY": {
             "description": "CADDY",
-            "value": "https://raw.githubusercontent.com/lfjc/rwfjc001/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/rligit/rwkxsw01/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "Ray",
-            "value": "https://raw.githubusercontent.com/lfjc/rwfjc001/main/etc/ray.json"
+            "value": "https://raw.githubusercontent.com/rligit/rwkxsw01/main/etc/ray.json"
         },
         "ParameterSSENCYPT": {
             "description": "Encrypt",
@@ -25,10 +25,10 @@
         },
         "StoreFiles": {
             "description": "File",
-            "value": "https://raw.githubusercontent.com/lfjc/rwfjc001/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/rligit/rwkxsw01/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/lfjc/rwfjc001",
-    "repository": "https://github.com/lfjc/rwfjc001",
+    "website": "https://github.com/rwfjc/rwfjc001",
+    "repository": "https://github.com/rwfjc/rwfjc001",
     "stack": "container"
 }
